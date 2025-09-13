@@ -88,9 +88,7 @@ data/gtzan_dataset/genres/
 ## Requirements
 
 Python 3.9+ (recommended)
-
 TensorFlow 2.15 (GPU support recommended)
-
 Librosa, Scikit-learn, Matplotlib
 ---
 ## 📌 Notes
