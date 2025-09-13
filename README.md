@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Music-Genre-Classification.ico" alt="Music Genre Classification Logo" width="200"/>
+  <img src="Music-Genre-Classification.jpg" alt="Music Genre Classification Logo" width="200"/>
 </p>
 
 # Music Genre Classification (CNN + MFCC)
