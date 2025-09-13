@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Music-Genre_classification.ico" alt="Music Genre Classification Logo" width="200"/>
+</p>
+
 # Music Genre Classification (CNN + MFCC)
 
 This project is a **Music Genre Classification system** built with **Python, TensorFlow/Keras, and Librosa**.  
