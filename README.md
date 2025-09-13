@@ -107,7 +107,7 @@ Feel free to use and modify for research or personal projects.
 📧danial.kooshki@gmail.com
 📧 info@danialkooshki.com
 
-🌐 [My Website](https://www.danialkooshki.com)
+🌐 [www.danialkooshki.com](https://www.danialkooshki.com)
 
 
 
