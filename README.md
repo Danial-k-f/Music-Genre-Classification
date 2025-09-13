@@ -1,4 +1,4 @@
-# Music Genre Classification (CNN + MFCC)
+- Music Genre Classification (CNN + MFCC)
 
 This project is a **Music Genre Classification system** built with **Python, TensorFlow/Keras, and Librosa**.  
 It supports two approaches:
@@ -9,7 +9,7 @@ The project can train on the **GTZAN dataset** (10 genres) or any custom dataset
 
 ---
 
-## Project Structure
+- Project Structure
 
 music_genre_classification/
 │
@@ -27,27 +27,19 @@ music_genre_classification/
 
 ---
 
-## Installation
+- Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Danial-k-f/Music-Genre-Classification.git
    cd Music-Genre-Classification
 ---
-## Create a virtual environment (recommended)
-
-```bash
-python -m venv venv
-source venv/bin/activate   # Linux/macOS
-venv\Scripts\activate      # Windows
-```
----
-## Install dependencies
+- Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 ---
-## Usage
+<> Usage
 1. Train a model
 
 CNN model (spectrograms):
@@ -69,7 +61,7 @@ Provide a .wav file (e.g., data/sample.wav):
 python main.py --mode cnn --predict data/sample.wav
 ```
 ---
-## Dataset
+- Dataset
 
 The project was tested on the GTZAN dataset (10 genres, 1000 samples).
 Dataset folder structure:
@@ -89,7 +81,7 @@ data/gtzan_dataset/genres/
 
 You can also replace this dataset with your own custom dataset (each subfolder = genre name).
 ---
-## Requirements
+- Requirements
 
 Python 3.9+
 
@@ -97,7 +89,7 @@ TensorFlow 2.15 (GPU support recommended)
 
 Librosa, Scikit-learn, Matplotlib
 ---
-##📌 Notes
+📌 Notes
 
 CNN model generally achieves better accuracy (~70%+ on GTZAN).
 
@@ -106,7 +98,7 @@ Training speed and accuracy depend on GPU availability.
 For faster training, you can increase batch_size in train_cnn.py.
 ---
 
-##📜 License
+📜 License
 
 This project is released under the MIT License.
 Feel free to use and modify for research or personal projects.
