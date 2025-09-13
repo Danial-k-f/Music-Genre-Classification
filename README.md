@@ -100,7 +100,8 @@ CNN model generally achieves better accuracy (~70%+ on GTZAN).
 Training speed and accuracy depend on GPU availability.
 
 For faster training, you can increase batch_size in train_cnn.py.
----
+
+
 
 ## 📜 License
 
