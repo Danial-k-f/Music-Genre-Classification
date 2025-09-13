@@ -83,7 +83,7 @@ data/gtzan_dataset/genres/
     └── rock/
  ```
 
-####You can also replace this dataset with your own custom dataset (each subfolder = genre name).
+#### You can also replace this dataset with your own custom dataset (each subfolder = genre name).
 ---
 ## Requirements
 
