@@ -69,7 +69,7 @@ python main.py --mode cnn --predict data/sample.wav
 
 The project was tested on the GTZAN dataset (10 genres, 1000 samples).
 Dataset folder structure:
-
+ ```bash
 data/gtzan_dataset/genres/
     ├── blues/
     ├── classical/
@@ -81,7 +81,7 @@ data/gtzan_dataset/genres/
     ├── pop/
     ├── reggae/
     └── rock/
-
+ ```
 
 You can also replace this dataset with your own custom dataset (each subfolder = genre name).
 ---
