@@ -10,7 +10,7 @@ The project can train on the **GTZAN dataset** (10 genres) or any custom dataset
 ---
 
 ## Project Structure
-
+ ```bash
 music_genre_classification/
 │
 ├── main.py # Entry point (train/evaluate/predict)
@@ -23,7 +23,7 @@ music_genre_classification/
 │ ├── predict.py # Predict genre for a given file
 │ └── config.py # Label encoder and configs
 └── models/ # Saved models (.keras)
-
+ ```
 
 ---
 
