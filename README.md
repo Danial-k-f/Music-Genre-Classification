@@ -83,11 +83,11 @@ data/gtzan_dataset/genres/
     └── rock/
  ```
 
-You can also replace this dataset with your own custom dataset (each subfolder = genre name).
+####You can also replace this dataset with your own custom dataset (each subfolder = genre name).
 ---
 ## Requirements
 
-Python 3.9+
+Python 3.9+ (recommended)
 
 TensorFlow 2.15 (GPU support recommended)
 
